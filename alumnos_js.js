@@ -1,1 +1,1 @@
-[{"alumno":"Jairo","nota":50,"ranking":150},{"alumno":"Alberto","nota":100,"ranking":150}]
+[{"alumno":"Jairo","nota":10,"ranking":90},{"alumno":"Alberto","nota":5,"ranking":100}]
